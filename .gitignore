@@ -2,3 +2,4 @@ Segmentation
 images
 tags
 *.pth
+__pycache__
